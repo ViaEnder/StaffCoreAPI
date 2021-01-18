@@ -4,6 +4,7 @@ StaffCoreAPI to get Many Features of StaffCore like Events and More!
 ##Import
 
 Please Replace the Tag 'VERSION' with the version Number → [![](https://jitpack.io/v/ViaEnder/StaffCoreAPI.svg)](https://jitpack.io/#ViaEnder/StaffCoreAPI) 
+
 ###Gradle:
 
 ```groovy
